@@ -1,0 +1,13 @@
+D:\GoogleDrive\Visual Studio 2010\Projects\iLyrics\1.3\iTuneslyrics\iTuneslyrics\bin\Debug\iTuneslyrics.exe.config
+D:\GoogleDrive\Visual Studio 2010\Projects\iLyrics\1.3\iTuneslyrics\iTuneslyrics\bin\Debug\iTuneslyrics.exe
+D:\GoogleDrive\Visual Studio 2010\Projects\iLyrics\1.3\iTuneslyrics\iTuneslyrics\bin\Debug\iTuneslyrics.pdb
+D:\GoogleDrive\Visual Studio 2010\Projects\iLyrics\1.3\iTuneslyrics\iTuneslyrics\bin\Debug\Interop.iTunesLib.dll
+D:\GoogleDrive\Visual Studio 2010\Projects\iLyrics\1.3\iTuneslyrics\iTuneslyrics\obj\Debug\Interop.iTunesLib.dll
+D:\GoogleDrive\Visual Studio 2010\Projects\iLyrics\1.3\iTuneslyrics\iTuneslyrics\obj\Debug\iTuneslyrics.csproj.ResolveComReference.cache
+D:\GoogleDrive\Visual Studio 2010\Projects\iLyrics\1.3\iTuneslyrics\iTuneslyrics\obj\Debug\iTuneslyrics.ManualUpdate.resources
+D:\GoogleDrive\Visual Studio 2010\Projects\iLyrics\1.3\iTuneslyrics\iTuneslyrics\obj\Debug\iTuneslyrics.iLyrics.resources
+D:\GoogleDrive\Visual Studio 2010\Projects\iLyrics\1.3\iTuneslyrics\iTuneslyrics\obj\Debug\iTuneslyrics.FrmResult.resources
+D:\GoogleDrive\Visual Studio 2010\Projects\iLyrics\1.3\iTuneslyrics\iTuneslyrics\obj\Debug\iTuneslyrics.Properties.Resources.resources
+D:\GoogleDrive\Visual Studio 2010\Projects\iLyrics\1.3\iTuneslyrics\iTuneslyrics\obj\Debug\iTuneslyrics.csproj.GenerateResource.Cache
+D:\GoogleDrive\Visual Studio 2010\Projects\iLyrics\1.3\iTuneslyrics\iTuneslyrics\obj\Debug\iTuneslyrics.exe
+D:\GoogleDrive\Visual Studio 2010\Projects\iLyrics\1.3\iTuneslyrics\iTuneslyrics\obj\Debug\iTuneslyrics.pdb

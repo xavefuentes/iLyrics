@@ -4,6 +4,7 @@ using System.Xml;
 using iTuneslyrics.Interface;
 
 namespace iTuneslyrics.LyricService {
+    // reference https://github.com/dmo60/lLyrics/blob/master/lLyrics/LeoslyricsParser.py
     public class LeosLyricService : ILyricService {
         private const string LYRIC_PATH = "/leoslyrics/lyric/text";
         private const string LYRIC_SEARCH_RESULT_PATH = "/leoslyrics/searchResults/result";
